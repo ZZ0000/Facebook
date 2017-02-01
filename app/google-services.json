@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223337575027",
+    "project_id": "sample-1dcc0"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223337575027:android:2fec3602dd0a6400",
+        "android_client_info": {
+          "package_name": "com.example.java.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223337575027-pn51s5p3dar8bgdvafjknhjttdioqkjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTp9VmwPowEVXIyUtZ1ql5C7rq9q4zbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
